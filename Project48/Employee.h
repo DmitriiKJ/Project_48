@@ -10,6 +10,7 @@ protected:
 	string position;
 	float salary;
 
+
 public:
 	Employee();
 	Employee(string n, string p, float s);
